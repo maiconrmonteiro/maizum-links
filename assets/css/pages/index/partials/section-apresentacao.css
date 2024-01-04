@@ -173,6 +173,10 @@ section.apresentacao .conteudo .links a:hover .icone img {
   transform: scale(1.2);
 }
 
+#icone {
+  background-color: #008000;
+}
+
 section.apresentacao .conteudo .links a .icone {
   padding: 15px;
   height: 100%;
