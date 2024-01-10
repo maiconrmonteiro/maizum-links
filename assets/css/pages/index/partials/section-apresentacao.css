@@ -10,6 +10,10 @@ section.apresentacao {
   overflow: hidden;
 }
 
+.video {
+  width: 80vw;
+}
+
 /* <div class="faixa"> */
 section.apresentacao .faixa {
   width: 2000px;
